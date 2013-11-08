@@ -39,4 +39,4 @@ $("a.anchor").glose(mainContainer, mode, move);
 **Disclaimer**
 
 I’m quite new at Javascript/jQuery and I made this plugin for my own purposes, so take it as it comes, I haven’t tested it extensively yet.
-There are certainly things that can be improved in terms of functionality, code clarity and performance. Any suggestion/intervention will be very welcome.
+There are certainly things that can be improved in terms of functionality, code clarity/quality and performance. Any suggestion/intervention will be very welcome.
