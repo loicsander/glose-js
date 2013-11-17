@@ -4,7 +4,7 @@ glose-js
 Loïc Sander – www.akalollip.com – v1.0 – november 2013
 
 
-Glose.js is a simple jQuery plugin meant to facilitate/promote the usage of sidenotes – common in print design – on the web.
+Glose.js is a jQuery plugin meant to facilitate/promote the usage of sidenotes – common in print design – on the web.
 
 Put simply, it elevates a targeted element to the position of its anchor in the web page.
 To achieve this, Glose works with one/two side container/s (defined by a $mode parameter, see below for details)
