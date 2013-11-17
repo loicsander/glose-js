@@ -18,7 +18,7 @@ be lifted up to their anchor: if the parameter $move is ‘false’, Gloze skips
 To use Glose, simply add & import Glose.js like any javascript file (don’t forget to have jQuery imported as well), and call .glose() on your anchor elements:
 
 ```javascript
-$("a.anchor").glose(mainContainer, mode, move);
+$("a.anchor").glose(mainContainer, mode, moveOnly);
 ```
 
 
@@ -29,11 +29,11 @@ $("a.anchor").glose(mainContainer, mode, move);
   		12: a side column on both sides (1 & 2) of the main col
   		1: one side column to the left of the main col
   		2: one side column to the right of the main col
-– move: optional boolean, add ‘false’ if you want Glose to skip the side column creation and element moving
+– moveOnly: optional boolean, add ‘true’ if you want Glose to skip the side column creation and element moving
 ```
 
 
-* Here’s an example of the plugin at work: http://www.akalollip.com/experiment/glose-4/
+* Here’s an example of the plugin at work: http://www.akalollip.com/experiment/glose/
 
 
 **Disclaimer**
